@@ -39,7 +39,7 @@ This repository emphasizes:
 - Real-world development practices
 
 ---
-
+      
 # Repository Structure
 
 ```bash
